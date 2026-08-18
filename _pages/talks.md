@@ -1,0 +1,52 @@
+---
+layout: archive
+title: "Talks and Presentations"
+permalink: /talks/
+author_profile: true
+redirect_from:
+  - /talks
+---
+
+{% include base_path %}
+
+Selected talks, keynotes and conference presentations, newest first.
+
+## 2026
+
+- **Keynote: Northern Star Symposium** — Bodø
+- **ICA (76th)** — Cape Town
+- **ADD Academic Conference: Controversies of AI Society**
+
+## 2025
+
+- **Nordmedia** — Odense
+- **AOIR Annual Conference** — Rio de Janeiro
+- **Simulated Societies** — Siena
+- **COMPTEXT (7th)** — Vienna
+- **Workshop: Digital methods** — University of Southern Denmark
+- **Seminars: Online extremism, counterpublics and conspiracy theories** — University of Copenhagen
+
+## 2024
+
+- **ECREA (11th)** — Ljubljana
+- **Democracy & Digital Citizenship (2nd)** — Odense
+- **ECPR General Conference** — Dublin
+- **ICA (74th)** — Gold Coast
+- **Political Ecologies of the Far Right (2nd)** — Uppsala
+- **Lecture: Russian disinformation before and during the European election 2024** — Moderaterne
+- **Panel: Det Politiske Mødested** — “Er Europa rustet til at modstå Putins troldehær”
+
+## 2023
+
+- **ICA (73rd)** — Toronto
+- **Technology in Movement** — Copenhagen
+- **Researching the Far-Right** — Vienna
+- **Seminar: Making use of AI and large language models** — Norion Consult
+
+## 2022
+
+- **ECREA (9th)** — Aarhus
+- **IJPP Conference (8th)** — Loughborough
+- **ICA (72nd)** — Paris
+- **Democracy & Digital Citizenship (1st)** — Roskilde
+- **Media and Publics (1st)** — Roskilde (presenter and session chair)

@@ -10,7 +10,7 @@ redirect_from:
 
 I am a postdoctoral researcher at the [Department of Communication and Arts](https://www.ruc.dk/eng/communication/), Roskilde University, working in the intersection of politics, media and digital society. I study how digital information environments — social media, online counter-movements and alternative news media — shape political opinion and public debate.
 
-**I can speak to:**
+**My main research areas:**
 
 - **Anti-systemic movements** — online counter-movements that reject “the system” and organise in digital alternative media (the focus of my Ph.D.)
 - **Digital publics and counterpublics** — how groups form, argue and organise online
@@ -18,6 +18,7 @@ I am a postdoctoral researcher at the [Department of Communication and Arts](htt
 - **Foreign media influence** — how state-backed media such as Russia’s RT and Sputnik reach European audiences through alternative news environments
 - **Disinformation** — its spread, mapping and governance in Northern Europe
 - **Climate obstruction** — how anti-climate actors coordinate and frame the climate debate online
+- **Sustainable AI** — measuring the energy footprint of running AI models locally
 
 I have written op-eds for *Politiken* (2024–2026), been interviewed by Ritzau/Berlingske and appeared on public panels. I can speak in Danish and English.
 
