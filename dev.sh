@@ -17,9 +17,9 @@ fi
 
 if [ "$1" = "build" ]; then
   [ -f Gemfile.lock ] || "$BUNDLE" install
-  "$BUNDLE" exec jekyll build
+  "$BUNDLE" exec jekyll build --config _config.yml,_config.dev.yml
   echo "Site built to ./_site (open _site/index.html)"
 else
   [ -f Gemfile.lock ] || "$BUNDLE" install
-  "$BUNDLE" exec jekyll serve
+  "$BUNDLE" exec jekyll serve --config _config.yml,_config.dev.yml --port 4000
 fi
