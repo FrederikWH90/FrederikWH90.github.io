@@ -311,27 +311,6 @@ author_profile: true
 <div class="columns">
  
  <div class="column-left">
-     {% include button.html button_name="SSM"%} 
-   </div>
- 
- <div class="column-right">
- 
-   Investing in surgery or yoga among professions?: Distinctions in health investments in the Danish healthcare field. 2020. <br>
-   <i>Kristian Larsen, Mikkel Haderup Larsen, <b>Frederik Weber Henriksen</b>, Mathias Holst Nicolaisen, Anette Lykke Hindhede. Social Science &amp; Medicine, 1–25.</i>. <br>
-
-   {% include buttonLink.html button_name="Scholar" button_class="primary" button_link="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HfElNMMAAAAJ&citation_for_view=HfElNMMAAAAJ:9yKSN-GCB0IC" %}   
-    <br>
-   
-   <ul class="custom">
-   <li>On health investments (surgery vs. yoga) and distinctions among professions in the Danish healthcare field.</li>
-   </ul>
- 
- </div>
-</div>
-
-<div class="columns">
- 
- <div class="column-left">
      {% include button.html button_name="ST&H"%} 
    </div>
  

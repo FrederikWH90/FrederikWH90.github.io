@@ -11,9 +11,9 @@ title                    : "Frederik Weber Henriksen"
 title_separator          : "-"
 name                     : &name "Frederik Weber Henriksen"
 description              : &description "Postdoc in politics, media and digital society @ Roskilde University frmohe@ruc.dk"
-url                      : https://FrederikWH.github.io # the base hostname & protocol for your site (local dev overrides url via _config.dev.yml)
+url                      : https://FrederikWH90.github.io # the base hostname & protocol for your site (local dev overrides url via _config.dev.yml)
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "FrederikWH/FrederikWH.github.io" # used for GitHub Pages deployment links
+repository               : "FrederikWH90/FrederikWH90.github.io" # used for GitHub Pages deployment links
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Frederikmh90"
+  github           : "FrederikWH90"
   google_plus      :
   keybase          :
   instagram        :
