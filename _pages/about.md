@@ -22,6 +22,4 @@ My Ph.D. dissertation, [BURN IT DOWN: Anti-Systemic Narratives and Counterpublic
 
 __News__
 - <span style="color:gray;">Jul 2026</span>
-    - Our paper [Climate Obstruction in the Digital Far-Right: Mapping the Climate Countermovement in German-, Danish-, and Swedish-Speaking Digital Information Environments](https://doi.org/10.1080/17524032.2026.2701866) is published in **Environmental Communication**. The companion [dataset is available on figshare](https://doi.org/10.6084/m9.figshare.33054782).
-- <span style="color:gray;">Mon 2026</span>
-    - Example news item — replace with your own (paper acceptance, a new position, an award, an upcoming talk). Add one entry per month, newest first.
+    - Our paper [Climate Obstruction in the Digital Far-Right](https://doi.org/10.1080/17524032.2026.2701866) is published in **Environmental Communication**. The companion [dataset is available on figshare](https://doi.org/10.6084/m9.figshare.33054782).
